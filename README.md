@@ -14,4 +14,6 @@
 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
+Хостится как статический сайт, поэтому обновление не на корне - ошибка.
+
 Попробовать можно по [этой ссылке.](https://react-graphql.onrender.com/)
