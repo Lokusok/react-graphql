@@ -20,7 +20,6 @@ function UpdatePost() {
   const [updatePostMutation, { loading }] = useMutation(UPDATE_POST, {
     refetchQueries: [
       GET_POST,
-      'GetPost'
     ],
   });
 

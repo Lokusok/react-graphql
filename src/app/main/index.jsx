@@ -33,7 +33,6 @@ function Main() {
   const [deletePostMutation] = useMutation(DELETE_POST, {
     refetchQueries: [
       GET_ALL_POSTS,
-      'GetPosts'
     ]
   });
 
